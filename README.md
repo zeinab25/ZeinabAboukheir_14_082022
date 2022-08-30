@@ -6,8 +6,10 @@ Welcome to HRnet! This is our company's internal application to create and view 
 ## Mission
 
 This project is part of my Front-End developer training course with the organisation “OpenClassrooms”. My Mission : 
--Convert a jQuery library to React (JQuery version of RHnet App [here])(https://github.com/OpenClassrooms-Student-Center/P12_Front-end).
--Publish my modal component on npm ([githhub Repository](https://github.com/zeinab25/npm-react-modal)).
+
+-  Convert a jQuery library to React (JQuery version of RHnet App [here](https://github.com/OpenClassrooms-Student-Center/P12_Front-end)).
+
+-  Publish my modal component on npm ([github repository](https://github.com/zeinab25/npm-react-modal)).
 
 
 ## Prerequisites
