@@ -9,7 +9,7 @@ a {
 
 h1 {
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 h2 {
@@ -99,7 +99,8 @@ h2 {
 form {
   margin: 15px;
   border-radius: 5px;
-  background-color: #f3f8f6;
+  background-color: #f8fffc;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
   padding: 20px;
   border: 1px solid;
   max-width: 400px;
@@ -216,7 +217,6 @@ table th {
   height: 40px;
   color: black;
 }
-
 
 
 
